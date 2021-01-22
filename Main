@@ -2,8 +2,11 @@
 <html>
 <head>
 <title> Welcome </title>
-</head>
+<ul>
+<li><a href="#tomatoeggs"> Stir Fry Tomatoes with Scrambled Eggs</a></li>
+</ul>
 <body>
+<p id="tomatoeggs"><b>Stir Fry Tomatoes with Scrambled Eggs</b></p>
 <p> Ingredients:</p>
             <label for="tomatoes"> <input id="tomatoes" type="checkbox" name="ingredients"> 3 Tomatoes</label>
             <br>
@@ -31,5 +34,7 @@
     <li> Once the tomatoes have soften, using the back of your spatula, smash the tomatoes into bits. </li>
     <li> Mix in the scrambled eggs and add in the sugar and chicken powder. Taste and adjust seasoning if needed. </li>
     <li> Transfer into a serving dish and sprinkle the chopped green onions on top. Serve with rice.</li>
-</ol></body>
+</ol>
+
+</body>
 </html>
