@@ -5,8 +5,21 @@ html {
 		box-sizing:border-box;
 	}
 
+h1 {
+	font-size:100%;
+	text-align: Center;
+	color: Maroon;
+	
+
 body {
   font-family: Aria, Helvetica, san-serif;
 }
+
+p {
+	font-style: normal;
+}
+	
+
+
     
 </style>
